@@ -1,1 +1,0 @@
-The Advancement of Web Applications for Mobile Devices.
