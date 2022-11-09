@@ -1,0 +1,2 @@
+Upon recent proposal approval, we have designed a basic framework for the Home page and also started research about NoSql using Firebase and its integrations. Since I have never used Firebase, I am planning to use this opportunity to explore NoSql concepts using this project. 
+One thing I am most proud of this week is that I have started to learn a new concept that I have never implemented before and wish to further enhance my experience using Firebase.
